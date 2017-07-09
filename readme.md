@@ -1,0 +1,2 @@
+
+实现mysql查询数据缓存到memcache中
